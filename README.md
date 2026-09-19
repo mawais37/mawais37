@@ -90,6 +90,20 @@ Exploring:
 
 ---
 
+# 💼 Internship Experience
+
+## 🏥 Shaukat Khanum Memorial Hospital (SKMH) — Internship
+
+During my internship at **Shaukat Khanum Memorial Hospital (SKMH)**, I gained hands-on experience in:
+
+- 🐍 Python for AI/ML
+- 🧠 Machine Learning fundamentals
+- 🌳 Decision Tree Classifiers
+- 📊 Model training and evaluation
+- 🧪 Practical, hands-on AI/ML tasks
+
+---
+
 # 📂 Featured Projects
 
 *Adding my Python and ML projects here as I complete them.*
@@ -187,6 +201,7 @@ Real-World AI/ML Projects
 
 # 🏆 Highlights
 
+- 🏥 AI/ML Internship at Shaukat Khanum Memorial Hospital (SKMH)
 - 🐍 Python Developer & Learner
 - 🤖 AI & Machine Learning Learner
 - 🧠 Machine Learning Fundamentals
