@@ -2,7 +2,7 @@
 <img src="./Awais_Banner.png" alt="Awais Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Muhammad Awais 👋</h1>
+<h1>Hi, I'm Muhammad Awais 👋</h1>
 
 <h3 align="center">🐍 Python Developer • 🌐 WordPress Developer • 📊 Data Analyst • 🤖 AI/ML Enthusiast</h3>
 
