@@ -120,10 +120,19 @@ A deep learning model that classifies rice leaf diseases from images and rejects
 - 🧠 Built with TensorFlow/Keras, fine-tuned MobileNetV2, data augmentation
 - 📊 Includes confusion matrix and prediction visualizations
 
-### ❤️ Heart Disease Prediction — Decision Tree Classifier 🌳
-Trained a decision tree classifier on a real clinical dataset (1,319 patients) using features like heart rate 💓, blood pressure 🩸, CK-MB, and Troponin levels to predict heart disease risk. Achieved **98.11% accuracy** 🎯
+### ❤️[Heart Disease Prediction](https://github.com/mawais37/heart-disease-decision-tree)
 
-🛠️ **Tech:** Python 🐍 | Scikit-learn | Pandas 🐼 | NumPy | Matplotlib 📊
+A decision tree classifier that predicts heart disease risk from real clinical data (1,319 patients), using features like heart rate, blood pressure, CK-MB, and Troponin levels.
+
+- 🎯 **98.11% accuracy** on the test set
+- 🧠 Built with Python, Scikit-learn, Pandas, NumPy
+- 📊 Includes confusion matrix, decision tree plot, and feature importance visualizations
+
+<p>
+  <img src="https://raw.githubusercontent.com/mawais37/heart-disease-decision-tree/main/confusion_matrix.png" width="270"/>
+  <img src="https://raw.githubusercontent.com/mawais37/heart-disease-decision-tree/main/decision_tree.png" width="270"/>
+  <img src="https://raw.githubusercontent.com/mawais37/heart-disease-decision-tree/main/feature_importance.png" width="270"/>
+</p>
 
 <p>
   <img src="https://raw.githubusercontent.com/mawais37/heart-disease-decision-tree/main/confusion_matrix.png" width="270"/>
