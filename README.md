@@ -112,7 +112,7 @@ During my internship at **Shaukat Khanum Memorial Hospital (SKMH)**, I gained ha
 
 # 📂 Featured Projects
 
-### 🌾 [Rice Leaf Disease Detection](https://github.com/mawais37/rice-leaf-disease-detection)
+### 🌾 [1.Rice Leaf Disease Detection](https://github.com/mawais37/rice-leaf-disease-detection)
 
 A deep learning model that classifies rice leaf diseases from images and rejects non-rice images, using transfer learning with **MobileNetV2**.
 
@@ -120,21 +120,13 @@ A deep learning model that classifies rice leaf diseases from images and rejects
 - 🧠 Built with TensorFlow/Keras, fine-tuned MobileNetV2, data augmentation
 - 📊 Includes confusion matrix and prediction visualizations
 
-### ❤️[Heart Disease Prediction](https://github.com/mawais37/heart-disease-decision-tree)
+### ❤️[2.Heart Disease Prediction](https://github.com/mawais37/heart-disease-decision-tree)
 
 A decision tree classifier that predicts heart disease risk from real clinical data (1,319 patients), using features like heart rate, blood pressure, CK-MB, and Troponin levels.
 
 - 🎯 **98.11% accuracy** on the test set
 - 🧠 Built with Python, Scikit-learn, Pandas, NumPy
 - 📊 Includes confusion matrix, decision tree plot, and feature importance visualizations
-
-<p>
-  <img src="https://raw.githubusercontent.com/mawais37/heart-disease-decision-tree/main/confusion_matrix.png" width="270"/>
-  <img src="https://raw.githubusercontent.com/mawais37/heart-disease-decision-tree/main/decision_tree.png" width="270"/>
-  <img src="https://raw.githubusercontent.com/mawais37/heart-disease-decision-tree/main/feature_importance.png" width="270"/>
-</p>
-
-
 ---
 
 ---
