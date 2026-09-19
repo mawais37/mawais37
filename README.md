@@ -2,7 +2,7 @@
 <img src="./Awais_Banner.png" alt="Awais Banner" width="100%" />
 </p>
 
-<h1>Hi, I'm Muhammad Awais 👋</h1>
+<h1 align="center">Hi, I'm Muhammad Awais 👋</h1>
 
 <h3 align="center">🐍 Python Developer • 🌐 WordPress Developer • 📊 Data Analyst • 🤖 AI/ML Enthusiast</h3>
 
@@ -112,7 +112,13 @@ During my internship at **Shaukat Khanum Memorial Hospital (SKMH)**, I gained ha
 
 # 📂 Featured Projects
 
-*Adding my Python and ML projects here as I complete them.*
+### 🌾 [Rice Leaf Disease Detection](https://github.com/mawais37/rice-leaf-disease-detection)
+
+A deep learning model that classifies rice leaf diseases from images and rejects non-rice images, using transfer learning with **MobileNetV2**.
+
+- 🎯 **88.8% training accuracy / 82.0% validation accuracy** across 6 disease classes + background rejection
+- 🧠 Built with TensorFlow/Keras, fine-tuned MobileNetV2, data augmentation
+- 📊 Includes confusion matrix and prediction visualizations
 
 ---
 
