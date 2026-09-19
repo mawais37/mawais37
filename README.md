@@ -1,10 +1,14 @@
-![Awais Banner](./Awais_Banner.png)
+<p align="center">
+<img src="./Awais_Banner.png" alt="Awais Banner" width="100%" />
+</p>
 
-# Hi, I'm Muhammad Awais 👋
+<h1 align="center">Hi, I'm Muhammad Awais 👋</h1>
 
-### 🐍 Python Developer • 🌐 WordPress Developer • 📊 Data Analyst • 🤖 AI/ML Enthusiast
+<h3 align="center">🐍 Python Developer • 🌐 WordPress Developer • 📊 Data Analyst • 🤖 AI/ML Enthusiast</h3>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=Welcome+To+My+GitHub+Profile;Python+%7C+AI+%2F+Machine+Learning+Enthusiast;Exploring+Artificial+Intelligence+%26+Machine+Learning;Building+Practical%2C+Real-World+Projects;Always+Learning+Something+New)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=Welcome+To+My+GitHub+Profile;Python+%7C+AI+%2F+Machine+Learning+Enthusiast;Exploring+Artificial+Intelligence+%26+Machine+Learning;Building+Practical%2C+Real-World+Projects;Always+Learning+Something+New" />
+</p>
 
 ---
 
@@ -29,17 +33,19 @@ My goal is to build a strong foundation in **Machine Learning and Artificial Int
 
 # 💻 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 ---
 
@@ -215,23 +221,29 @@ Real-World AI/ML Projects
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mawais37&show_icons=true&theme=default&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mawais37&hide_border=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mawais37&show_icons=true&theme=default&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mawais37&hide_border=true" />
+</p>
 
 ---
 
 # 🤝 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mawais37)
+<p align="center">
+<a href="https://github.com/mawais37"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
 # 💬 Personal Motto
 
-> **"Build. Learn. Improve."**
+<p align="center">
+<b>"Build. Learn. Improve."</b>
+</p>
 
 ---
 
-⭐ **Thanks for visiting my GitHub profile!**
+<p align="center">⭐ <b>Thanks for visiting my GitHub profile!</b></p>
 
-### 🐍 Python | 🤖 AI | 🧠 Machine Learning | 🌐 WordPress | 📊 Data Analysis | 🚀 Continuous Learning
+<h3 align="center">🐍 Python | 🤖 AI | 🧠 Machine Learning | 🌐 WordPress | 📊 Data Analysis | 🚀 Continuous Learning</h3>
