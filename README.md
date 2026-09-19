@@ -134,13 +134,6 @@ A decision tree classifier that predicts heart disease risk from real clinical d
   <img src="https://raw.githubusercontent.com/mawais37/heart-disease-decision-tree/main/feature_importance.png" width="270"/>
 </p>
 
-<p>
-  <img src="https://raw.githubusercontent.com/mawais37/heart-disease-decision-tree/main/confusion_matrix.png" width="270"/>
-  <img src="https://raw.githubusercontent.com/mawais37/heart-disease-decision-tree/main/decision_tree.png" width="270"/>
-  <img src="https://raw.githubusercontent.com/mawais37/heart-disease-decision-tree/main/feature_importance.png" width="270"/>
-</p>
-
-🔗 [View Project Repo](https://github.com/mawais37/heart-disease-decision-tree)
 
 ---
 
